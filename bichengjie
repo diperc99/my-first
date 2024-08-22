@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>文档标题</title>
+</head>
+<body>
+	<div style="background-color:#f2f6f7;
+                text-align:center;
+                padding:40px">
+     <img src="https://i2.imgs.ovh/d/BQACAgEAAx0EUvSR8wACMANmxq_RhouS4wafRlr74DVHIZg5QgACMwQAAnRUOUY9mDZ2WQX5DDUE" alt="梅宝"width="80px"height="80px">
+      
+  </div>
+  <div style="max-width:7o0px;
+              margin:30px auto;
+              padding:15px;
+              line-height:1.7;">
+    <p>
+      我的网站
+    </p>
+    <p>
+      我的网站
+    </p>
+    <p>
+      我的网站
+    </p>
+    <p>
+      我的网站
+    </p>
+    
+  </div>
+  <div style="background-color:#f2f6f7;
+                text-align:center;
+                padding:40px;
+              font-size:12px">
+    <p>
+      东方仗不住的网站
+    </p>
+    <a href=>友情链接</a>
+    
+  </div>
+	<p>我的第一个段落。</p>终于好啦要</p>
+</body>
+</html>
